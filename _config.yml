@@ -2,10 +2,10 @@
 
 title: "Andrew Carey"
 locale: en_US
-description: Bio and Blog
+description: "An experienced technical leader"
 logo: logo.png
 search: true
-url: http://andrewcarey.com.au
+#url: http://andrewcarey.com.au
 
 # Jekyll configuration
 
@@ -33,15 +33,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Andrew Carey
   avatar: bio-photo.jpg
-  email: you@email.com
+  email:
   disqus-shortname:
   twitter: #username
   facebook: #username
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: acarey.au
   instagram: #username
   flickr: #username
   tumblr: #username
