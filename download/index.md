@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Downloads
+title: Download
 date: 2015-12-19T18:03:51+11:00
 modified:
 excerpt:

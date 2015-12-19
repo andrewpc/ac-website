@@ -14,7 +14,7 @@ thumb: voda-square-200px.png
 author: voda
 ---
 
-Position formed as a result of the merger between Vodafone and 3 as part of a larger Online team. **I was responsible for formulating and implementing development processes in the Online team at VHA. **
+Position formed as a result of the merger between Vodafone and 3 as part of a larger Online team. **I was responsible for formulating and implementing development processes in the Online team at VHA.**
 
 Reporting to the Head of Publishing, **the responsibilities and tasks included the following:**
 

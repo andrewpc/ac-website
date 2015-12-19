@@ -8,7 +8,7 @@ tags: []
 image:
   feature:
 date: 2004-06-01T09:00:00+11:00
-date2: 2004-06-01T09:00:00+11:00
+date2: 2009-06-01T09:00:00+11:00
 grouping: work
 thumb: ericsson-square-200px.png
 author: ericsson

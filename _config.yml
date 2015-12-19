@@ -5,7 +5,7 @@ locale: en_US
 description: "An experienced technology professional"
 logo: logo.png
 search: true
-#url: http://andrewcarey.com.au
+url: http://andrewcarey.com.au
 
 # Jekyll configuration
 

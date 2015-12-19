@@ -2,15 +2,15 @@
 
 - title: Home
   url: /
-  
+
 - title: About
   url: /about/
 
 - title: Download
   url: /download/
 
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 
 - title: Search
   url: /search/

@@ -8,13 +8,13 @@ tags: []
 image:
   feature:
 date: 2010-08-15T09:00:00+11:00
-date2: 2010-08-15T09:00:00+11:00
+date2: 2013-05-15T09:00:00+11:00
 grouping: work
 thumb: ns-square-200px.png
 author: ns
 ---
 
-This role was responsible for building the Australian based Technology team at Neon Stingray. Appointed as the local **Head of Technology** (in conjunction with an offshore CTO and local CEO). 
+This role was responsible for building the Australian based Technology team at Neon Stingray. Appointed as the local **Head of Technology** (in conjunction with an offshore CTO and local CEO).
 
 **Roles and responsibilities included:**
 
