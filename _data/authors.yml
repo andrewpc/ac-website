@@ -10,11 +10,62 @@ abc:
   google:
     plus:
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+ericsson:
+  name:
+  web: http://ericsson.com
+  email:
+  bio:
+  avatar: ericsson-round-200px.png
+  twitter:
   google:
-    plus: CorneliusFiddlebone
+    plus:
+
+foxtel:
+  name:
+  web: http://foxtel.com.au
+  email:
+  bio:
+  avatar: foxtel-round-200px.png
+  twitter:
+  google:
+    plus:
+
+htal:
+  name:
+  web: http://hutchison.com.au
+  email:
+  bio:
+  avatar: htal-round-200px.png
+  twitter:
+  google:
+    plus:
+
+ns:
+  name:
+  web: http://neonstingray.com
+  email:
+  bio:
+  avatar: ns-round-200px.png
+  twitter:
+  google:
+    plus:
+
+wsu:
+  name:
+  web: http://wsu.com.au
+  email:
+  bio:
+  avatar: wsu-round-200px.png
+  twitter:
+  google:
+    plus:
+
+voda:
+  name:
+  web: http://vodafone.com.au
+  email:
+  bio:
+  avatar: voda-round-200px.png
+  twitter:
+  google:
+    plus:
