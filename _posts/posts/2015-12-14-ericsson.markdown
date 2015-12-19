@@ -13,3 +13,20 @@ grouping: work
 thumb: ericsson-square-200px.png
 author: ericsson
 ---
+
+**Team leader** in the Content Systems Development team. This involved technically managing a small team of developers.
+
+**Tasks included:**
+- Code review
+- Solution design
+- Schedule management
+- Development estimation
+- Team strategy
+
+Development of content applications for the Hutchison 3G mobile platform. This platform enabled browser based content for the '3' network including such products as News, Sport, Music and Ring Tones.
+
+This role was a **Java development** position and covered experience/usage in the following: JSP, JSTL, J2EE design patterns, Struts, XML Content ingestion, Mobile video streaming solutions (live & encoded)
+
+Required an excellent understanding of mobile device capabilities, large scale content management systems, device adaptation, software development methodologies and code that met minimum standards in the areas of automated test coverage.
+
+Regular interaction with the customer at many points during the design cycle, in order to provide technical feasibility, delivery estimates and project updates.

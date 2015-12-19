@@ -1,0 +1,14 @@
+---
+layout: post
+title: Resume
+modified:
+categories: download
+excerpt:
+tags: []
+image:
+  feature:
+date2: 2015-12-19T18:08:49+11:00
+grouping:
+date: 2015-12-19T18:08:49+11:00
+link: /AndrewCarey-Resume2013u2.pdf
+---
