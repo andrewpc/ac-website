@@ -1,0 +1,15 @@
+---
+layout: post
+title: Foxtel
+modified:
+categories: posts
+excerpt: "Technology Lead"
+tags: []
+image:
+  feature:
+date: 2013-06-30T09:00:00+11:00
+date2: 2013-06-30T09:00:00+11:00
+grouping: work
+thumb: foxtel-square-200px.png
+author: foxtel
+---
