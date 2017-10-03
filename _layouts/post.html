@@ -51,10 +51,10 @@
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
-      {% if page.previous %}
+      {% if page.previous and page.previous.grouping contains 'work' %}
         <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous</a>
       {% endif %}
-      {% if page.next %}
+      {% if page.next and page.next.grouping contains 'work' % %}
         <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next</a>
       {% endif %}
     </nav><!-- /.pagination -->
