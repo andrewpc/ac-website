@@ -3,7 +3,7 @@ layout: post
 title: Hutchison Telecoms
 modified:
 categories: posts
-excerpt: "Test Analyst/Change Management Co-ordinator"
+excerpt: "Change Management Co-ordinator <br />Test Analyst"
 tags: []
 image:
   feature:

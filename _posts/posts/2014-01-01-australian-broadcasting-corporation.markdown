@@ -3,16 +3,40 @@ layout: post
 title: Australian Broadcasting Corporation
 modified:
 categories: posts
-excerpt: 'Manager TV Strategy & Development/Manager APIs & Back-end Services'
+excerpt: 'Head of Digital Network <br />Head of Architecture & Development <br />Manager APIs & Back-end Services <br />Manager TV Strategy & Development'
 tags: []
 image:
   feature:
 date: 2013-12-31T22:00:00.000Z
-date2: 2016-12-31T00:00:00.000Z
+date2: 2017-10-01T00:00:00.000Z
 author: abc
 thumb: abc-square-200px
 grouping: work
 ---
+##Head of Digital Network - ABC Technology
+
+Responsible for the management of the Digital Network team (~150 staff) within the Technology division. Delivery and technical ownership of all ABC digital properties built internally. Product ownership of ABC wide products including the ABC app.
+
+Functionally encompassing:
+
+- Development (Mobile, Web, Backend)
+- Agile Delivery
+- Quality Assurance
+- Product
+- Platform Operations
+- Architecture & Solution Design
+
+##Head of Development & Architecture - Digital Network - ABC Technology
+
+Management of the Digital Network's Architecture & Development team (~90 staff). The core technical group responsible for audience facing digital platforms.
+
+Responsible for:
+
+- Development (Mobile, Web, Backend)
+- QA
+- Platform Operations
+- Architecture & Solution Design
+
 ##Manager APIs & Back-end Services - ABC Digital Network
 
 Ownership and development management of centralised team within ABC focusing on APIs and back-end systems.

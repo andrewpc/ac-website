@@ -3,7 +3,7 @@ layout: post
 title: Neon Stingray
 modified:
 categories: posts
-excerpt: "Head of Technology/Head of Product Services"
+excerpt: "Head of Product Services <br />Head of Technology"
 tags: []
 image:
   feature:

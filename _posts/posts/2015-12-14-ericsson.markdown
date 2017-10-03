@@ -3,7 +3,7 @@ layout: post
 title: Ericsson
 modified:
 categories: posts
-excerpt: "Java Developer/Java Team Lead"
+excerpt: "Java Team Lead <br />Java Developer"
 tags: []
 image:
   feature:
