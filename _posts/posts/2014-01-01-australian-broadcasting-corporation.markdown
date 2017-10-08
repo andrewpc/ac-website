@@ -8,7 +8,7 @@ tags: []
 image:
   feature:
 date: 2013-12-31T22:00:00.000Z
-date2: 2017-10-01T00:00:00.000Z
+date2:
 author: abc
 thumb: abc-square-200px
 grouping: work

@@ -3,7 +3,7 @@ layout: post
 title: Foxtel
 modified:
 categories: posts
-excerpt: "Technology Lead"
+excerpt: "Technology Lead (Contract)"
 tags: []
 image:
   feature:

@@ -3,12 +3,12 @@ layout: post
 title: Vodafone Hutchison Australia
 modified:
 categories: posts
-excerpt: "Platform Development Manager"
+excerpt: "Platform Development Manager <br />Technical Consultant (Contract)"
 tags: []
 image:
   feature:
-date: 2009-09-01T09:00:00+11:00
-date2: 2009-09-01T09:00:00+11:00
+date: 2009-06-01T09:00:00+11:00
+date2: 2010-08-01T09:00:00+11:00
 grouping: work
 thumb: voda-square-200px.png
 author: voda

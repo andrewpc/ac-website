@@ -36,7 +36,12 @@
         {% endif %}
         <span class="author vcard"><span class="fn">{{ author.name }}</span></span>
         From: <span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ page.date | date: "%d/%m/%Y" }}</time></span>
-        To: <span class="entry-date date published"><time datetime="{{ page.date2 | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ page.date2 | date: "%d/%m/%Y" }}</time></span>
+        To:
+        {% if page.date2 %}
+          <span class="entry-date date published"><time datetime="{{ page.date2 | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ page.date2 | date: "%d/%m/%Y" }}</time></span>
+        {% else %}
+          <span class="entry-date date published">Current</span>
+        {% endif %}
         {% if page.modified %}<span class="entry-date date modified"><time datetime="{{ page.modified }}"><i class="fa fa-pencil"></i> {{ page.modified | date: "%B %d, %Y" }}</time></span>{% endif %}
         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}<span class="entry-comments"><i class="fa fa-comment-o"></i> <a href="#disqus_thread">Comment</a></span>{% endif %}
         {% if page.share %}{% include social-share.html %}{% endif %}

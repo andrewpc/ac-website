@@ -3,11 +3,11 @@ layout: post
 title: Neon Stingray
 modified:
 categories: posts
-excerpt: "Head of Product Services <br />Head of Technology"
+excerpt: "Head of Product Solutions <br />Head of Technology"
 tags: []
 image:
   feature:
-date: 2010-08-15T09:00:00+11:00
+date: 2010-09-15T09:00:00+11:00
 date2: 2013-05-15T09:00:00+11:00
 grouping: work
 thumb: ns-square-200px.png
